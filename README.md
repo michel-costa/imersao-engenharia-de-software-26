@@ -218,4 +218,3 @@ git push -u origin main
 - [Google ADK: documentação](https://adk.dev/)
 - [ADK Skills](https://adk.dev/skills/) · [Especificação Agent Skills](https://agentskills.io/specification)
 - [ADK EnvironmentToolset](https://adk.dev/integrations/environment-toolset/)
-- [Google AI Studio: API Keys](https://aistudio.google.com/apikey)
